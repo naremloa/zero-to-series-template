@@ -17,6 +17,6 @@ module.exports = {
     node: true,
   },
   rules: {
-    'no-console': ['error', { allow: ['warn', 'error', 'group'] }]
+    'no-console': ['error', { allow: ['warn', 'error', 'group', 'info'] }],
   },
 };
