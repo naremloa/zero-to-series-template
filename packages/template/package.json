@@ -16,8 +16,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "peerDependencies": {
-    "vue": "^2.0.0"
   }
 }
